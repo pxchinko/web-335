@@ -1,0 +1,56 @@
+{
+  "_id": 1084634,
+  "first_name": "Sarah",
+  "last_name": "Massie",
+  "date_of_birth": 271096,
+  "user_name": "pxchinko",
+  "invoices":
+  [
+    {
+      "_id": 5843901,
+      "date_created": 160820082922,
+      "date_shipped": 100820043818,
+      "subtotal": 98.24,
+      "tax": 8.90,
+      "total": 107.14,
+      "line_item":
+      [
+        {
+          "_id": 8321904,
+          "name": "spirit jersey", 
+          "price": 69.99,
+          "quantity": 1
+        },
+        {
+          "_id": 5748294,
+          "name": "baseball hat", 
+          "price": 28.25,
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "_id": 1843901,
+      "date_created": 12839040390,
+      "date_shipped": 12782340904,
+      "subtotal": 20.98,
+      "tax": 2.54,
+      "total": 23.52,
+      "line_item":
+      [
+        {
+          "_id": 8439120,
+          "name": "green apples", 
+          "price": 4.99,
+          "quantity": 1
+        },
+        {
+          "_id": 1432905,
+          "name": "case of beer", 
+          "price": 15.99,
+          "quantity": 1
+        }
+      ]
+    }
+  ]
+}

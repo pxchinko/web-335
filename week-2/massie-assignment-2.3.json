@@ -1,0 +1,46 @@
+{
+  "classes": [
+    { 
+      "_id": 335,
+      "class": "Introduction to NoSQL"
+    },
+    {
+      "_id": 420,
+      "class": "REST APIs"
+    }
+  ]
+}
+
+{
+  "enroll":[
+    {
+      "_id": 13904,
+      "user_id": 13000206,
+      "class_id": 280,
+      "grade": "A"
+    },
+    {
+      "_id": 48309,
+      "user_id": 13000206,
+      "class_id": 340,
+      "grade": "A-"
+    }
+  ]
+}
+
+{
+  "students": [
+    {
+      "_id": 12390132,
+      "first_name": "Sarah",
+      "last_name": "Massie",
+      "mi": "M"
+    },
+    {
+      "_id": 81290344,
+      "first_name": "Calvin",
+      "last_name": "Tang",
+      "mi": "X"
+    }
+  ]
+}
