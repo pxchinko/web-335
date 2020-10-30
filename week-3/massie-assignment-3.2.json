@@ -1,0 +1,31 @@
+{
+  "user": {
+    "_id": 13000206,
+    "first_name": "Sarah",
+    "last_name": "Massie",
+    "date_of_birth": 10271996,
+
+    "role": [
+      {
+        "_id": 13000206,
+        "description": "Front-End Developer",
+        "permissions": {
+          "create": "true",
+          "read": "true",
+          "update": "true",
+          "delete": "true"
+        }
+      },
+      {
+        "_id": 21913848,
+        "description": "Web Designer",
+        "permissions":{
+          "create": "true",
+          "read": "true",
+          "update": "true",
+          "delete": "false"
+        }
+      }
+    ]
+  }
+}
