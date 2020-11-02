@@ -1,0 +1,46 @@
+{
+  "_id": "wiley_and_sons",
+  "publisher_name": "John Wiley & Sons, Inc.",
+  "publisher_code": 2013933932,
+  "publisher_address": "10475 Crosspoint Boulevard, Indianapolis, IN 46256",
+  "books": [
+    {
+      "book_isbn": 9781118008188,
+      "book_name": "HTML & CSS: Design and Build Websites",
+      "book_price": 29.99,
+      "authors": [
+        {
+          "author_first_name": "Jon",
+          "author_last_name": "Duckett",
+          "author_phone": 7149304597,
+          "author_email": "jonduckett@gmail.com"
+        }
+      ]
+    },
+    {
+      "book_isbn": 9781118531648 ,
+      "book_name": "JavaScript and JQuery: Interactive Front-End Web Development",
+      "book_price": 39.99,
+      "authors": [
+        {
+          "author_first_name": "Jon",
+          "author_last_name": "Duckett",
+          "author_phone": 1234567890,
+          "author_email": "jonduckett@gmail.com"
+        },
+        {
+          "author_first_name": "Gilles",
+          "author_last_name": "Ruppert",
+          "author_phone": 1234567890,
+          "author_email": "gillesruppert@gmail.com"
+        },
+        {
+          "author_first_name": "Jack",
+          "author_last_name": "Moore",
+          "author_phone": 1234567890,
+          "author_email": "jackmoore@gmail.com"
+        }
+      ]
+    }
+  ]
+}
